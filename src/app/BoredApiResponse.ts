@@ -11,11 +11,12 @@
 */
 
 export type BoringApiResponse = {
-  activity:string;
-  type?:string;
-  participants?:number;
-  price?:number;
-  link?:string;
-  key?:string;
-  accessibility?:number
+  // Defines the response from the API to a type and export it so it can be used elsewhere.
+  activity: string;
+  type?: string;
+  participants?: number;
+  price?: number;
+  link?: string;
+  key?: string;
+  accessibility?: number;
 };

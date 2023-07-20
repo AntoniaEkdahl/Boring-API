@@ -1,16 +1,15 @@
-
-
-h1, p{
+h1,
+p {
   text-align: center;
 }
 
-button{
+button {
   display: block;
   margin: auto;
   width: 10%;
   margin-top: 30px;
 }
 
-.box-container{
+.box-container {
   margin-top: 20%;
 }
